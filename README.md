@@ -92,10 +92,9 @@ This system provides a complete solution for ski station management with the fol
 
 ### Local Development Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/ski-station-management.git
-   cd ski-station-management
+1. **Clone the repository**   ```bash
+   git clone https://github.com/NassimKhaldi/DEVOPS-SKI.git
+   cd DEVOPS-SKI
    ```
 
 2. **Configure MySQL Database**
